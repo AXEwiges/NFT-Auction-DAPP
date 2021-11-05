@@ -23,6 +23,7 @@
 * 安装npm, yarn, 并配置react开发环境
   在本项目根目录路径下，运行以下指令以配置环境，并开始运行React程序
   > npm install
+
   > yarn start
  * 至此，应当可以看到localhost:3000下个人NFT的界面(初始为空)
   ![image](https://github.com/AXEwiges/NFT-DAPP/blob/main/imgs/sample.jpg)

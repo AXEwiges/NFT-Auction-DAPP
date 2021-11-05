@@ -1,4 +1,4 @@
-# NFT-DAPP
+# NFT-Auction-DAPP
 ### 环境配置
 * 如果配了运行不了,或者出了什么问题，请联系我来操作一波
 * 全程在Windows下开发

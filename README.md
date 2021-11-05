@@ -1,7 +1,14 @@
 # NFT-Auction-DAPP
-### 环境配置
-* 如果配了运行不了,或者出了什么问题，请联系我来操作一波
-* 全程在Windows下开发
+如果配了运行不了,或者出了什么问题，请联系我来操作一波
+## 环境配置概览
+> Node.js v14.17.6\
+> npm 6.14.15\
+> ipfs version 0.10.0\
+> Solidity v0.5.16 (solc-js)\
+> Truffle v5.4.15 (core: 5.4.15)\
+> Web3.js v1.5.3
+## 环境配置过程
+* 使用Windows下开发
 * 安装truffle, ganache的最新版本(直至2021/11/5)
 * 安装Metamask钱包
 * 版本^0.8.9的solidity编译器(一般会随truffle安装好，truffle也会跟随pragma进行自动安装)
